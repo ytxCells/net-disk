@@ -267,3 +267,39 @@ $$
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/revealjs.html)
 
 [md-enhance]: https://plugin-md-enhance.vuejs.press/zh/
+
+## 官网摘录
+### GFM 警告
+
+> [!note]
+> 注释文字
+
+> [!important]
+> 重要文字
+
+> [!tip]
+> 提示文字
+
+> [!warning]
+> 注意文字
+
+> [!caution]
+> 警告文字
+
+```md
+> [!note]
+> 注释文字
+
+> [!important]
+> 重要文字
+
+> [!tip]
+> 提示文字
+
+> [!warning]
+> 注意文字
+
+> [!caution]
+> 警告文字
+
+```
